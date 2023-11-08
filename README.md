@@ -14,7 +14,7 @@ Certifique-se de ter o Docker instalado em seu sistema. Em seguida, siga estas e
 2. Navegue até a pasta do projeto:
    
    ```bash
-   cd dockerizei-app-nodejs
+   cd dockerizando
    
 4. Construa a imagem Docker:
 
