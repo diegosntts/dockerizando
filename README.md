@@ -25,5 +25,3 @@ Certifique-se de ter o Docker instalado em seu sistema. Em seguida, siga estas e
 
    ```bash
    docker run -p 3000:3000 -d nome-da-imagem
-
-
